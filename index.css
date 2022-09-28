@@ -35,8 +35,8 @@ blockquote {
     font-size: 30px;
     font-weight: bold;
     font-style: italic;
+    padding: 200px;
     color: forestgreen;
-    padding: 200;
 }
 
 header,h4 {
