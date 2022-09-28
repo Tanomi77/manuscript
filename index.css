@@ -20,7 +20,7 @@ h3{
 p {
     line-height: 1.5;
     margin-top: 24px;
-    max-width: 65ch;
+    max-width: 81ch;
     margin-left: auto;
     margin-right: 200px;
     font-size: 20px;
@@ -52,5 +52,5 @@ header {
 }
 
 main {
-    padding-bottom: 70px;
+    padding-bottom: 100px;
 }
