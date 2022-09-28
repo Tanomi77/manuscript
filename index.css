@@ -29,6 +29,10 @@ p {
 h4{
     font-size: 97px;
     font-weight: bold;
+    padding-left: 100px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    padding-left: 100px;
 }
 
 blockquote {
@@ -36,16 +40,17 @@ blockquote {
     font-weight: bold;
     font-style: italic;
     padding: 200px;
+    margin-right: 300px;
     color: forestgreen;
 }
 
-header,h4 {
+header {
     padding-left: 100px;
-    margin-bottom: 200px;
+    margin-bottom: 300px;
     margin-top: 300px;
     padding-left: 100px;
 }
 
 main {
-    padding-bottom: 100px;
+    padding-bottom: 70px;
 }
